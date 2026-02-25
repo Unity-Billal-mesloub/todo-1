@@ -13,7 +13,7 @@ Because I want people to have a way to tell me what they think I can do best.
 
 ### Where
 
-In the [issues](https://github.com/RichardLitt/todo/issues).
+In the [issues](https://github.com/Unity-Billal-mesloub/todo-1/issues).
 
 ### Who
 
@@ -33,4 +33,4 @@ Now you're just being ridiculous.
 
 ### Other questions
 
-If you want to ask me stuff, go to my [ama](https://github.com/RichardLitt/ama) and ask me there.
+If you want to ask me stuff, go to my [ama](https://github.com/Unity-Billal-mesloub/ama) and ask me there.
